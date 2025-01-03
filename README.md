@@ -8,6 +8,7 @@ Model Evaluation: Performance metrics and cross-validation.
 Advanced Topics: Neural networks, deep learning, and more.
 
 **Learning Goals**
+
 Master core Machine Learning algorithms in Python.
 Gain hands-on experience in implementing models and algorithms using Python libraries (e.g., Scikit-learn, TensorFlow, Keras).
 Apply learned techniques to real-world datasets.
